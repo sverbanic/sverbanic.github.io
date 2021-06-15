@@ -18,8 +18,8 @@ I hope you find what you need below, but if not, feel free to reach out using th
 * Undergraduate Researcher, Vassar College, January 2012 - May 2015
 
 ## Education
-PhD in Biochemistry & Molecular Biology, Bioengineering Emphasis, UCSB, September 2015 - March 2020
-BA in Biochemistry, Vassar College, August 2011 - May 2020
+* PhD in Biochemistry & Molecular Biology, Bioengineering Emphasis, UCSB, September 2015 - March 2020
+* BA in Biochemistry, Vassar College, August 2011 - May 2020
 
 ## Skills
 (~coming soon~)
