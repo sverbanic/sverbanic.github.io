@@ -5,7 +5,7 @@ but I hope to update it with some other personal and professional projects in th
 
 ## About Me
 I'm (primarily) a molecular biologist that's really into using new biotechnologies to address challenging problems,
-but I'm also just a guy that really likes backpacking, museums, skateboarding, and a strong cup of coffee.
+but I'm also just a guy that loves backpacking, museums, skateboarding, and a strong cup of coffee.
 
 Currently, I'm a postdoc in Professor Irene Chen's lab at UCLA, but I'm also entering the job market.
 If your company is looking for a hard-working, curious, innovative, and friendly new team member, please reach out.
