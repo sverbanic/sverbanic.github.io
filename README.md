@@ -17,7 +17,7 @@ I hope you find what you need below, but if not, shoot me an email at saverbanic
   
 ## Education
 * PhD in Biochemistry & Molecular Biology, Bioengineering Emphasis, UCSB, September 2015 - March 2020
-* BA in Biochemistry, Vassar College, August 2011 - May 2020
+* BA in Biochemistry, Vassar College, August 2011 - May 2015
 
 
 ## Relevant Links & Downloads
