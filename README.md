@@ -22,7 +22,7 @@ I hope you find what you need below, but if not, feel free to reach out using th
 * BA in Biochemistry, Vassar College, August 2011 - May 2020
 
 ## Skills
-(~coming soon~)
+(coming soon)
 
 ## Relevant Links & Downloads
 [Résumé](https://github.com/sverbanic/sverbanic.github.io/raw/main/assets/verbanic_resume_june_2021.pdf)  
