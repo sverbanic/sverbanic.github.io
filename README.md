@@ -4,7 +4,7 @@ but I hope to update it with some other personal and professional projects in th
 
 
 ## About Me
-Simply put: I'm a research scientist. Although my degrees say 'biochemistry' and 'molecular biology' on them, I've spent much of the past decade working on interdisciplinary projects spanning from analytical chemistry and material science to bioinformatics and programming. These days, I'm most interested in bioengineering projects that utilize a combination of programming, synthetic biology, and conventional methods to solve previously intractable problems or create & discover new biological materials. I've been told that 'science is 90% of my personality', and if that's true, then the other 10% loves backpacking, museums, skateboarding, word games, vinyl records, and the pursuit of making the perfect shot of espresso.
+Simply put: I'm a research scientist. Although my degrees say 'biochemistry' and 'molecular biology' on them, I've spent much of the past decade working on interdisciplinary projects spanning from analytical chemistry and material science to bioinformatics and programming. These days, I'm most interested in bioengineering projects that utilize a combination of programming, synthetic biology, and conventional methods to solve previously intractable problems or create & discover new biological materials. I've been told that 'science is 90% of my personality', and if that's true, then the other 10% loves climbing, backpacking, museums, skateboarding, word games, vinyl records, and the pursuit of making the perfect shot of espresso.
 
 I hope you find what you need below, but if not, shoot me an email at saverbanic@gmail.com and I'll get back to you as soon as I can.
 
@@ -22,7 +22,7 @@ I hope you find what you need below, but if not, shoot me an email at saverbanic
 
 
 ## Relevant Links & Downloads
-[Résumé (download)](https://github.com/sverbanic/sverbanic.github.io/raw/main/assets/verbanic_resume_june_2021.pdf)  
+[Résumé (download)](https://github.com/sverbanic/sverbanic.github.io/raw/main/assets/verbanic_resume_March_2022.pdf)  
 [LinkedIn](https://www.linkedin.com/in/samuel-verbanic/)  
 [ORCID](https://orcid.org/0000-0002-6835-6690)  
 [Google Scholar](https://scholar.google.com/citations?user=s3YPZREAAAAJ&hl=en)  
