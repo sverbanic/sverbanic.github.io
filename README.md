@@ -4,13 +4,15 @@ but I hope to update it with some other personal and professional projects in th
 
 
 ## About Me
-Simply put: I'm a research scientist. Although my degrees say 'biochemistry' and 'molecular biology' on them, I've spent much of the past decade working on interdisciplinary projects spanning from analytical chemistry and material science to bioinformatics and programming. These days, I'm most interested in bioengineering projects that utilize a combination of programming, synthetic biology, and conventional methods to solve previously intractable problems or create & discover new biological materials. I've been told that 'science is 90% of my personality', and if that's true, then the other 10% loves climbing, backpacking, museums, skateboarding, word games, vinyl records, and the pursuit of making the perfect shot of espresso.
+Simply put: I'm a research scientist. Although my degrees say 'biochemistry' and 'molecular biology' on them, I've spent much of the past decade working on interdisciplinary projects spanning from analytical chemistry and material science to bioinformatics and programming. These days, I'm most interested in bioengineering projects that utilize a combination of programming, synthetic biology, and conventional methods to solve previously intractable problems or create & discover new biological materials. I put this into practice as a Senior Scientist in the Vector Innovation Group at 4DMT, contributing to the development of next-generation AAV vectors as our group's lead bioinformatician. I've been told that 'science is 90% of my personality', and if that's true, then the other 10% loves climbing, backpacking, museums, skateboarding, word games, vinyl records, and the pursuit of making the perfect shot of espresso.
 
 I hope you find what you need below, but if not, shoot me an email at saverbanic@gmail.com and I'll get back to you as soon as I can.
 
 
 ## Experience
-* Scientist I - R&D/Technology Innovation Group, 4D Molecular Therapeutics, August 2021 - Present
+* Senior Scientist - R&D/Vector Innovation Group, 4D Molecular Therapeutics, October 2023 - Present
+* Scientist II - R&D/Technology Innovation Group, 4D Molecular Therapeutics, October 2022 - September 2023
+* Scientist I - R&D/Technology Innovation Group, 4D Molecular Therapeutics, August 2021 - September 2022
 * Postdoctoral Scholar, UCLA, March 2020 - August 2021
 * Graduate Student Researcher, UCSB, September 2015 - March 2020
 * Undergraduate Researcher, Vassar College, January 2012 - May 2015
